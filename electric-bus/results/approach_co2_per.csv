@@ -1,0 +1,16 @@
+approach,co2,per
+flow_distance,72313767961.09004,25
+flow_distance,39575199017.84006,50
+flow_distance,32721915691.860043,75
+flow_distance,176626118229.4899,0
+flow_distance,0.0,100
+mean_speed_by_lane,148767157947.83984,25
+mean_speed_by_lane,92678723380.69022,50
+mean_speed_by_lane,47733152929.16002,75
+mean_speed_by_lane,176626118229.4899,0
+mean_speed_by_lane,0.0,100
+simultaneous_buses,193245448368.1698,25
+simultaneous_buses,167917517349.63,50
+simultaneous_buses,73604126385.75003,75
+simultaneous_buses,176626118229.4899,0
+simultaneous_buses,0.0,100
