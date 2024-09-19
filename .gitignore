@@ -1,5 +1,5 @@
 scenario/
-electric-bus/outputs/
+electric_bus/outputs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
